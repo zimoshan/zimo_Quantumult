@@ -1,0 +1,16 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># zimo_Quantumult
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision b98db7ced3b7d0a525dc774f7de8094b433945fb)
++++ b/README.md	(date 1709556534388)
+@@ -1,1 +1,2 @@
+-# zimo_Quantumult
+\ No newline at end of file
++# zimo_Quantumult
++For myself
+\ No newline at end of file
